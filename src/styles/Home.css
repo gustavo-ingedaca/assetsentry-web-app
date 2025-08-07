@@ -7,7 +7,7 @@
 }
 
 .hero-section {
-    text-align: center;
+    text-align: left;
     padding: 50px 20px;
     background: url('/assets/industrial-tech.jpg') no-repeat center center; /* Add your industrial tech image */
     background-size: cover;
@@ -41,7 +41,7 @@
 
 .features-section, .pricing-section {
     padding: 40px 20px;
-    text-align: center;
+    text-align: left;
 }
 
 .features-section h2, .pricing-section h2 {
@@ -54,13 +54,13 @@ header {
     background-color: #1a1a1a; /* Dark background */
     color: #ffffff; /* White font */
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Add dark background and white font for footer */
 .footer {
     background-color: #1a1a1a; /* Dark background */
     color: #cccccc; /* Light gray font */
-    text-align: center;
+    text-align: left;
     padding: 20px;
 }

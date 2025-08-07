@@ -3,7 +3,6 @@ import React from 'react';
 const Features: React.FC = () => {
     return (
         <section className="features">
-            <h2>Key Features of AssetSentry</h2>
             <ul>
                 <li>
                     <h3>Lifecycle Support</h3>
