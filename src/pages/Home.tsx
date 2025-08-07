@@ -2,6 +2,8 @@ import React from 'react';
 import Features from '../components/Features';
 import Pricing from '../components/Pricing';
 import '../styles/Home.css'; // Import the CSS file for styling
+import '../styles/global.css';
+import '../styles/main.css';
 
 const Home: React.FC = () => {
     return (
