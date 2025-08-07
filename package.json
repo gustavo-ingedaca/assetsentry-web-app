@@ -1,0 +1,35 @@
+{
+  "name": "assetsentry-web-app",
+  "version": "1.0.0",
+  "description": "AssetSentry - Smart Maintenance Management",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/assetsentry-web-app.git"
+  },
+  "keywords": [
+    "maintenance",
+    "management",
+    "assets",
+    "reporting"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.27.1",
+    "typescript": "^4.4.3",
+    "vite": "^7.1.0"
+  }
+}
