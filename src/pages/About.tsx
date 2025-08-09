@@ -1,8 +1,9 @@
 import React from 'react';
+import '../styles/Home.css'; // Import the CSS file for styling
 
 const About: React.FC = () => {
     return (
-        <div>
+        <div className="about-section">
             <h1>About AssetSentry</h1>
             <p>
                 AssetSentry is a cloud-based platform designed to simplify maintenance management and enhance asset performance. 

@@ -19,7 +19,6 @@ const Home: React.FC = () => {
                     <Features />
                 </section>
                 <section className="pricing-section">
-                    <h2>Pricing Plans</h2>
                     <Pricing />
                 </section>
             </main>

@@ -1,4 +1,5 @@
 import React from 'react';
+import '../styles/Home.css'; // Import the CSS file for styling
 
 const Contact: React.FC = () => {
     return (

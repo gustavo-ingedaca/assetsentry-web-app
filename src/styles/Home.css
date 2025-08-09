@@ -64,3 +64,15 @@ header {
     text-align: left;
     padding: 20px;
 }
+
+.about-section {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+}
+
+.contact-page {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+}
