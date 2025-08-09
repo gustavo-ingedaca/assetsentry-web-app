@@ -1,8 +1,23 @@
 
-body {
+html, body {
     background-color: black;
     color: white;
     margin: 0;
     padding: 0;
+    height: 100%;
     font-family: Arial, sans-serif;
 }
+
+.content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  background-color: #000; /* same as sidebar */
+  color: #fff; /* ensure text is readable */
+}
+
+.app-layout {
+  display: flex;
+  height: 100vh;
+}
+
