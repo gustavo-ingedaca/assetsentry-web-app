@@ -9,7 +9,7 @@
 .hero-section {
     text-align: left;
     padding: 50px 20px;
-    background: url('/assets/industrial-tech.jpg') no-repeat center center; /* Add your industrial tech image */
+    background: url('../assets/industrial-tech.jpeg') no-repeat center center;
     background-size: cover;
     color: #ffffff;
 }
